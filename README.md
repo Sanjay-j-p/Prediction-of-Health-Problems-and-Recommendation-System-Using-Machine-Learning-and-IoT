@@ -1,4 +1,4 @@
-# Final-year-Project
+# Final-year-Project[btech]
 
 Paper link - https://ieeexplore.ieee.org/document/9696622<br /><br />
 • GUI-based framework where Disease will be predicted based on users’ symptoms.<br /> • It is based on 7 ML classification algorithms (namely decision tree, Random Forest, Naive Bayes, KNN, SVM, logistic regression, MLP) <br />• The system uses other parameters such as height, weight, and glucose level as input for BMI calculation to ensure that blood sugar levels are stable. The Database stores patient data from the GUI.<br /> • Hardware that measures and monitors user heart rate and temperature can be visualized in the IoT cloud. If there is any abnormality email and buzzer will be alerted.<br /><br />
