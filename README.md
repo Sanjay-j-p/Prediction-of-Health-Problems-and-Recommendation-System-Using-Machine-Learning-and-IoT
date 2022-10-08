@@ -8,3 +8,6 @@ Flowchart:<br />
 <br /><br />
 GUI:<br />
 ![image](https://user-images.githubusercontent.com/11870995/191506948-4253a7e5-54da-4ae7-a928-ba3547a3969b.png)
+Hardware:
+
+![hardware](https://user-images.githubusercontent.com/11870995/194708756-1b62640d-5ce6-4ca1-b0b9-53f030fc0ed9.jpeg)
